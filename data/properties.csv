@@ -1,0 +1,21 @@
+property_id,city,condition,area_sqft,bedrooms,age_years,listing_date,agent_id,agent_notes,price_lakhs
+PROP-1001,Bengaluru,Excellent,1450.5,3,2,2026-08-12,AG-01,Corner unit near metro station,118.5
+PROP-1002,Mumbai,Good,980.0,2,8,2026-08-15,AG-02,Sea breeze balcony needs minor paint,185.0
+PROP-1003,Pune,Fair,1210.0,2,12,2026-08-19,AG-03,Quiet lane close to IT park,74.0
+PROP-1004,Delhi,Good,1680.2,3,5,2026-08-22,AG-04,Renovated kitchen and modular wardrobes,142.0
+PROP-1005,Bengaluru,Good,1120.0,2,4,2026-09-01,AG-01,East facing apartment with covered parking,89.5
+PROP-1006,Hyderabad,Excellent,1890.0,4,1,2026-09-04,AG-05,Gated community clubhouse access,136.0
+PROP-1007,Pune,Poor,860.0,1,19,2026-09-09,AG-03,Old building plumbing upgrade advised,48.5
+PROP-1008,Mumbai,Excellent,1340.5,3,3,2026-09-14,AG-02,High floor overlooking central garden,245.0
+PROP-1009,Bengaluru,Fair,,2,10,2026-09-18,AG-01,Urgent sale owner relocating abroad,78.0
+PROP-1010,Delhi,Good,1520.0,3,7,2026-09-21,AG-04,Walking distance to main market,128.0
+PROP-1011,Hyderabad,Good,1410.8,3,6,2026-09-25,AG-05,Spacious living room and utility area,96.5
+PROP-1012,Pune,Excellent,1650.0,3,2,2026-10-02,AG-03,Newly handed over builder floor,112.0
+PROP-1013,Mumbai,Fair,790.0,1,15,2026-10-06,AG-02,Compact studio near business district,132.0
+PROP-1014,Bengaluru,Good,1285.0,2,,2026-10-10,AG-01,Good sunlight and ventilation,95.0
+PROP-1015,Delhi,Poor,1100.0,2,22,2026-10-14,AG-04,Needs interior refurbishment,82.0
+PROP-1016,Hyderabad,Excellent,2150.0,4,1,2026-10-19,AG-05,Duplex penthouse with terrace,174.0
+PROP-1017,Pune,Good,1320.0,3,5,2026-10-23,AG-03,Family friendly society with park,88.0
+PROP-1018,Mumbai,Good,1180.0,2,9,2026-10-27,AG-02,Close to western express highway,198.0
+PROP-1019,Bengaluru,Excellent,1560.0,3,3,2026-11-01,AG-01,Smart home locks and solar water heater,126.0
+PROP-1020,Hyderabad,Fair,1040.0,2,11,2026-11-05,AG-05,Near outer ring road exit,69.5

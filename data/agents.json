@@ -1,0 +1,37 @@
+[
+  {
+    "agent_id": "AG-01",
+    "agent_name": "Kavya Nair",
+    "region": "South",
+    "experience_years": 6,
+    "rating": 4.8
+  },
+  {
+    "agent_id": "AG-02",
+    "agent_name": "Rohan Kulkarni",
+    "region": "West",
+    "experience_years": 9,
+    "rating": 4.9
+  },
+  {
+    "agent_id": "AG-03",
+    "agent_name": "Sneha Deshmukh",
+    "region": "West",
+    "experience_years": 4,
+    "rating": 4.5
+  },
+  {
+    "agent_id": "AG-04",
+    "agent_name": "Vikram Malhotra",
+    "region": "North",
+    "experience_years": 7,
+    "rating": 4.6
+  },
+  {
+    "agent_id": "AG-05",
+    "agent_name": "Ananya Reddy",
+    "region": "South",
+    "experience_years": 5,
+    "rating": 4.7
+  }
+]
