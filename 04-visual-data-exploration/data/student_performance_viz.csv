@@ -1,0 +1,25 @@
+student_id,track,study_hours,practice_problems,sleep_hours,exam_score
+S-01,AI/ML,6.5,42,7.2,84
+S-02,AI/ML,8.0,65,6.8,92
+S-03,AI/ML,4.2,18,7.5,67
+S-04,AI/ML,9.1,110,6.5,96
+S-05,AI/ML,5.5,30,7.0,78
+S-06,AI/ML,7.2,52,7.4,88
+S-07,AI/ML,3.0,12,8.0,58
+S-08,AI/ML,8.5,88,6.9,94
+S-09,Data Eng,5.0,25,7.1,72
+S-10,Data Eng,6.8,45,6.7,81
+S-11,Data Eng,3.5,14,7.8,61
+S-12,Data Eng,7.5,58,7.0,85
+S-13,Data Eng,4.8,22,7.3,69
+S-14,Data Eng,6.0,36,6.6,76
+S-15,Data Eng,2.5,8,8.1,52
+S-16,Data Eng,8.2,72,6.8,89
+S-17,Web Dev,4.0,16,7.6,64
+S-18,Web Dev,5.8,33,7.2,75
+S-19,Web Dev,3.2,10,7.9,56
+S-20,Web Dev,6.4,40,7.1,79
+S-21,Web Dev,2.0,6,8.2,48
+S-22,Web Dev,7.0,48,6.9,82
+S-23,Web Dev,4.5,20,7.4,66
+S-24,Web Dev,1.2,4,5.5,35
